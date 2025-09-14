@@ -1,0 +1,9 @@
+Dimension Type,avg_vaccination_rate,median_vaccination_rate,std_vaccination_rate,min_vaccination_rate,max_vaccination_rate,record_count,avg_ci_lower,avg_ci_upper,county_count,year_count
+>=18 Years,42.88,43.3,8.85,2.1,91.9,6829,36.68,49.23,1914,5
+50-64 Years,36.37,41.35,17.14,1.8,92.8,416,30.16,42.59,53,2
+Age,36.36,38.3,18.47,0.0,92.7,151214,32.75,40.0,1944,15
+18-64 Years,35.94,40.05,16.76,2.5,91.5,416,31.25,40.63,53,2
+18-49 Years,35.64,37.45,16.96,1.8,92.9,416,28.92,42.36,53,2
+>=65 Years,35.47,42.2,22.02,0.0,94.6,416,31.1,39.86,53,2
+Race and Ethnicity,34.61,38.5,15.96,0.0,92.2,42041,29.08,40.14,62,15
+6 Months - 17 Years,29.14,11.0,34.87,0.2,97.9,760,27.03,31.45,74,3
